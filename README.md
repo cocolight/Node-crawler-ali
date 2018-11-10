@@ -8,13 +8,13 @@
 数据库的表结构如下
 ```
 
-![sql](images\sql.png)
+https://github.com/meidawei/Node-crawler-ali/blob/master/images/sql.png)
 
 ```javascript
 2.使用vscode编译器，右击index.html,然后选择在终端打开，如下图所示：
 ```
 
-![caozuo](images\caozuo.png)
+https://github.com/meidawei/Node-crawler-ali/blob/master/images/caozuo.png
 
 ```javascript
 3.在黑窗输入以下指令：
@@ -24,7 +24,7 @@ node index.js
 
 这时候就可以看到images里面有下载好的图片以及按照标题命名的图片文件名
 
-![jieguo](images\jieguo.png)
+https://github.com/meidawei/Node-crawler-ali/blob/master/images/jieguo.png)
 
 具体细节看源码，，里面注释很详细：
 
