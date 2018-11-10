@@ -1,6 +1,6 @@
 ## Node爬虫爬取阿狸壁纸并且保存到数据库
 
-####基本操作
+#### 基本操作
 
 ```javascript
 1.创建数据库
@@ -8,13 +8,13 @@
 数据库的表结构如下
 ```
 
-![sql](G:\node.js\Node爬取豆瓣Top200\ali\Node-ali\images\sql.png)
+![sql](images\sql.png)
 
 ```javascript
 2.使用vscode编译器，右击index.html,然后选择在终端打开，如下图所示：
 ```
 
-![caozuo](G:\node.js\Node爬取豆瓣Top200\ali\Node-ali\images\caozuo.png)
+![caozuo](images\caozuo.png)
 
 ```javascript
 3.在黑窗输入以下指令：
@@ -24,7 +24,7 @@ node index.js
 
 这时候就可以看到images里面有下载好的图片以及按照标题命名的图片文件名
 
-![jieguo](G:\node.js\Node爬取豆瓣Top200\ali\Node-ali\images\jieguo.png)
+![jieguo](images\jieguo.png)
 
 具体细节看源码，，里面注释很详细：
 
