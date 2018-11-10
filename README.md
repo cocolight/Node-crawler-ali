@@ -3,21 +3,21 @@
 #### 基本操作
 
 ```javascript
-1.创建数据库
+1. 创建数据库
 导入数据库文件ali.sql(结构+数据)
 数据库的表结构如下
 ```
 
-https://github.com/meidawei/Node-crawler-ali/blob/master/images/sql.png)
+https://github.com/meidawei/Node-crawler-ali/blob/master/images/sql.png
 
 ```javascript
-2.使用vscode编译器，右击index.html,然后选择在终端打开，如下图所示：
+2. 使用vscode编译器，右击index.html,然后选择在终端打开，如下图所示：
 ```
 
-https://github.com/meidawei/Node-crawler-ali/blob/master/images/caozuo.png
+![images](https://github.com/meidawei/Node-crawler-ali/blob/master/images/caozuo.png)
 
 ```javascript
-3.在黑窗输入以下指令：
+3. 在黑窗输入以下指令：
 npm install
 node index.js
 ```
